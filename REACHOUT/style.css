@@ -1,0 +1,233 @@
+body{
+    margin: 0px;
+    padding:0px;
+}
+
+
+
+.navbar-light{
+   background-color:;
+   
+
+
+}
+.nav-item{
+    font-size: 15px;
+}
+.navbar-light .navbar-brand{
+    font-size: 30px;
+    color:whitesmoke;
+    font-weight: 900;
+}
+
+.my-nav{
+    color:white;
+    font-size:15px;
+    
+}
+
+.navbar-light .navbar-nav >li > a{
+    
+    color:white;
+    text-transform:uppercase;
+    font-weight: bold; 
+    
+}
+.carousel-inner{
+    
+    height: 95vh;
+}
+
+.carousel-inner img{
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-caption{
+    padding-bottom: 400px;
+    font-family: sans-serif;
+}
+
+.carousel-caption h1{
+    
+    font-size: 70px;
+    text-transform: uppercase;
+     font-weight: bold;
+    color: darkcyan;
+}
+
+.carousel-caption p{
+    font-size:25px;
+    font-weight:bold;
+    color: black;
+}
+
+.carousel-caption h5{
+    font-size:70px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: darkcyan;
+}
+
+.carousel-caption h4{
+    font-size:70px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: darkcyan;
+}
+
+.carousel-caption h4 span{
+    color:wheat;
+}
+.my-head{
+    padding-bottom: 40px;
+}
+.new-jumb,a{
+    text-align: center;
+    
+}
+
+}
+.my-text{
+    color: antiquewhite;
+}
+
+.carousel-caption h5 span{
+    color:blueviolet;
+}
+.carousel-caption h1 span{
+    color:blueviolet;
+}
+.carousel-caption h1{
+    color:wheat;
+}
+
+.view-button{
+    border-radius: 30px;
+}
+
+.invest{
+    color: blueviolet;
+}
+}
+footer{
+    background-color:lightslategray;
+    color:black;
+    padding-top: 2rem;
+    
+}
+
+/*
+.light{
+    border-top:1px solid #d5d5d5;
+    width:75%
+}
+*/
+.navbar-dark .navbar-brand{
+    font-size: 40px;
+    color: blue;
+}
+
+.nav-item{
+    text-transform: uppercase;
+    color: chocolate;
+}
+    
+.second-jumbotron{
+    background-image: url(pics/music.jpg);
+    height: 90vh;
+    border-radius: 0px;
+}
+
+
+
+.nav-item active, a{
+    color: chartreuse;
+}
+.mb-3{
+    
+    color: antiquewhite;
+}
+
+.bg-light{
+    background-color:aqua;
+    background-image: url(pics/pexels-photo-754769.jpeg);
+    
+}
+
+.what-col{
+    background-color: lightcyan;
+}
+.what-col,a{
+    text-align: center;
+    
+}
+
+.what{
+    text-transform:uppercase;
+    font-weight: bold;
+    font-size: 70px;
+    
+}
+
+.what-we-do{
+    font-size: 30px;
+    
+
+}
+.light-up,a{
+    text-align: center;
+}
+.light-up{
+    color: antiquewhite;
+}
+.card,a{
+    text-align: center;
+}
+.card-body{
+    background-color: lightcyan;
+}
+.middle,a{
+    text-align: center;
+}
+.bg-light{
+    background-color: black;
+}
+
+.jumbotron{
+    background-image: url(pics/pexels-photo-1250452.jpeg);
+    height: 95vh;
+}
+
+.my-head{
+    color: antiquewhite;
+    font-weight: 400;
+}
+
+.bg-footer{
+    background:#272727;
+    padding: 6% 0% 5% 0%;
+        
+    
+}
+
+.footer ul li{
+    list-style: none;
+}
+
+.footer ul li h5{
+    
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-bottom:16%;
+}
+.footer ul li p{
+    
+    color: #fff;
+    font-size:15px;
+}
+
+.link-class{
+    color: azure;
+}
